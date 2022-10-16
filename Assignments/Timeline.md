@@ -1,4 +1,4 @@
-#Project Timeline
+# Project Timeline
 
 Task # | Description | Start | Completion | Milestone
 :-----:|:-----------:|:----------:|:--------:|:---------:
