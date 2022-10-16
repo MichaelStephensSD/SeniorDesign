@@ -1,7 +1,7 @@
 #Effort Matrix
 
 Task # | Description | Degree of Effort
-:-----:|:-----------:|:----------:|:--------:|:---------:
+:-----:|:-----------:|:----------:
 1      |Design a web interface that displays a chart of a given ticker symbol.		 								 |20%|
 2	   |Query data from an API to use for the display of stock/commodity data within the chart.			 			 |10%|
 3	   |Add the ability to zoom in and out on a given chart and view historical data.			 				     |5%|
