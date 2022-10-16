@@ -1,4 +1,4 @@
-#Effort Matrix
+# Effort Matrix
 
 Task # | Description | Degree of Effort
 :-----:|:-----------:|:----------:
