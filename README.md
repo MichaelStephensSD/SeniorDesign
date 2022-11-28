@@ -1,17 +1,17 @@
 ## Table of Contents
 
-1. [Team Name](./Assignments/ProjectDescription.md) and [Project Abstract](./Assignments/ProjectAbstract.md)
+1. [Team Name](./Assignments/ProjectDescription.md#team-mas) and [Project Abstract](Assignments/ProjectDescription.md#project-abstract)
 2. [Project Description](./Assignments/ProjectDescription.md)
 3. [User Stories](./Assignments/UserStories.md) and [Design Diagrams](./Assignments/DesignDiagrams.png)
 4. Project Tasks and Timeline
    - [Tasklist](./Assignments/Tasklist.md)
-   - [Timeline](./Assignments/Taskline.md)
+   - [Timeline](./Assignments/Timeline.md)
    - [Effort Matrix](./Assignments/EffortMatrix.md)
 5. [ABET Concerns Essay](...)
 6. PPT Slideshow
-   - [Slideshow Presentation](...)
-   - [Video Presentation](...)
+   - [Slideshow Presentation](https://docs.google.com/presentation/d/1ZBldV09KKXtZKmlrtVlD1dJ7swgTL1zr52As7RX5550/edit?usp=sharing)
+   - [Video Presentation](https://drive.google.com/file/d/1ao9joiJdQgOrXal4c2PzPt5Cv5UFnB42/view?usp=sharing)
 7. [Self-Assessment Essay](...)
-8. [Professional Biography](...)
+8. [Professional Biography](./Assignments/MichaelStephensBio.md)
 9. [Budget](...)
 10. [Appendix](...)
