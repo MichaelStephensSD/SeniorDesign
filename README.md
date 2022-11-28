@@ -1,7 +1,7 @@
 # MAS
 ## Table of Contents
 
-1. [Team Name](./Assignments/ProjectDescription.md#team-mas) and [Project Abstract](Assignments/ProjectDescription.md#project-abstract)
+1. [Team Names](./Assignments/ProjectDescription.md#team-mas) and [Project Abstract](Assignments/ProjectDescription.md#project-abstract)
 2. [Project Description](./Assignments/ProjectDescription.md)
 3. [User Stories](./Assignments/UserStories.md) and [Design Diagrams](./Assignments/DesignDiagrams.png)
 4. Project Tasks and Timeline
