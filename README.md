@@ -15,5 +15,5 @@
    - [Video Presentation](https://drive.google.com/file/d/1ao9joiJdQgOrXal4c2PzPt5Cv5UFnB42/view?usp=sharing)
 7. [Self-Assessment Essays](...)
 8. [Professional Biography](./Assignments/MichaelStephensBio.md)
-9. [Budget](...)
+9. [Budget](./Assignments/Budget.md)
 10. [Appendix](...)
