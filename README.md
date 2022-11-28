@@ -1,12 +1,12 @@
 ## Table of Contents
 
-1. [Team Name](./assignments/ProjectDescription.md) and [Project Abstract](./assignments/ProjectAbstract.md)
-2. [Project Description](./assignments/ProjectDescription.md)
-3. [User Stories](./assignments/UserStories.md) and [Design Diagrams](./assignments/DesignDiagrams.png)
+1. [Team Name](./Assignments/ProjectDescription.md) and [Project Abstract](./Assignments/ProjectAbstract.md)
+2. [Project Description](./Assignments/ProjectDescription.md)
+3. [User Stories](./Assignments/UserStories.md) and [Design Diagrams](./Assignments/DesignDiagrams.png)
 4. Project Tasks and Timeline
-   - [Tasklist](./assignments/Tasklist.md)
-   - [Timeline](./assignments/Taskline.md)
-   - [Effort Matrix](./assignments/EffortMatrix.md)
+   - [Tasklist](./Assignments/Tasklist.md)
+   - [Timeline](./Assignments/Taskline.md)
+   - [Effort Matrix](./Assignments/EffortMatrix.md)
 5. [ABET Concerns Essay](...)
 6. PPT Slideshow
    - [Slideshow Presentation](...)
