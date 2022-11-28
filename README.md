@@ -16,4 +16,4 @@
 7. [Self-Assessment Essay](./Assignments/IndividualCapstoneAssessment.md)
 8. [Professional Biography](./Assignments/MichaelStephensBio.md)
 9. [Budget](./Assignments/Budget.md)
-10. [Appendix](...)
+10. [Appendix](./Assignments/Appendix.md)
