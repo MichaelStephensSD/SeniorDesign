@@ -1,3 +1,4 @@
+# MAS
 ## Table of Contents
 
 1. [Team Name](./Assignments/ProjectDescription.md#team-mas) and [Project Abstract](Assignments/ProjectDescription.md#project-abstract)
