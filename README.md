@@ -13,7 +13,7 @@
 6. PPT Slideshow
    - [Slideshow Presentation](https://docs.google.com/presentation/d/1ZBldV09KKXtZKmlrtVlD1dJ7swgTL1zr52As7RX5550/edit?usp=sharing)
    - [Video Presentation](https://drive.google.com/file/d/1ao9joiJdQgOrXal4c2PzPt5Cv5UFnB42/view?usp=sharing)
-7. [Self-Assessment Essays](...)
+7. [Self-Assessment Essay](./Assignments/IndividualCapstoneAssessment.md)
 8. [Professional Biography](./Assignments/MichaelStephensBio.md)
 9. [Budget](./Assignments/Budget.md)
 10. [Appendix](...)
