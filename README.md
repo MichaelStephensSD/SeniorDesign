@@ -1,4 +1,4 @@
-# MAS
+# MAS Senior Design Project
 ## Table of Contents
 
 1. [Team Names](./Assignments/ProjectDescription.md#team-mas) and [Project Abstract](Assignments/ProjectDescription.md#project-abstract)
