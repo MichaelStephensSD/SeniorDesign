@@ -1,7 +1,7 @@
 # Team MAS
 
 ## Team Members
-- [Michael Stephens (Computer Science Major)](./Assignments/MichaelStephensBio.md)
+- [Michael Stephens (Computer Science Major)](./MichaelStephensBio.md)
 
 ## Project Faculty Advior
 - TBD
