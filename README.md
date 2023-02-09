@@ -17,3 +17,4 @@
 8. [Professional Biography](./Assignments/MichaelStephensBio.md)
 9. [Budget](./Assignments/Budget.md)
 10. [Appendix](./Assignments/Appendix.md)
+11. [User Guide and Manual](https://dainty-faun-86df63.netlify.app/)
