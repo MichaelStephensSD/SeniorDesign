@@ -7,7 +7,7 @@ A local enviroment will be created in order to host the web application. This ap
 Planned Major Milestone Completion Date: 03/14/23
 
 Deliverables:
-- A demonstrative video of the base web application and its functionality. 
+- A demonstration of the base web application and its functionality. 
 
 ## Database (Milestone #2)
 
