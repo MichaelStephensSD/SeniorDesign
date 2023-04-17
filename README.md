@@ -15,7 +15,7 @@
 5. [User Guide and Manual](https://dainty-faun-86df63.netlify.app/)
 
 6. PPT Presentation
-   - [Slideshow Presentation](https://docs.google.com/presentation/d/1MA5hh2oxriBOfvCccPKxlqvJSa6fLT_lKKblCyS_QMw/edit?usp=sharing)
+   - [Slideshow Presentation (Spring)](https://docs.google.com/presentation/d/1MA5hh2oxriBOfvCccPKxlqvJSa6fLT_lKKblCyS_QMw/edit?usp=sharing)
    - [Video Presentation](https://drive.google.com/file/d/1ao9joiJdQgOrXal4c2PzPt5Cv5UFnB42/view?usp=sharing)
    
 7. [Final Expo Poster](./Assignments/MAS%20-%20Expo%20Poster.pdf)
