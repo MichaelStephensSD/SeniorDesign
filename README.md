@@ -5,7 +5,7 @@
 
 2. [Project Description](./Assignments/ProjectDescription.md)
 
-3. [User Stories](./Assignments/UserStories.md), [Design Diagrams](./Assignments/DesignDiagrams.png), [UI Design](LINKHERE)
+3. [User Stories](./Assignments/UserStories.md), [Design Diagrams](./Assignments/DesignDiagrams.png), [UI Design](./Assignments/UserInterfaceDesign.png)
 
 4. [Test Plan and Results](./Assignments/MAS%20-%20Test%20Plan.pdf)
 
