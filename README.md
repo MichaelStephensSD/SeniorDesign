@@ -24,7 +24,7 @@
    - [Intial Self-Assessment (Fall Semester)](./Assignments/IndividualCapstoneAssessment.md)
    - [Final Self-Assessment (Spring Semester)](./Assignments/Michael%20Stephens%20-%20Final%20Self-Assessment.pdf)
    
-9. Summary of Hours and Justificaiton
+9. [Summary of Hours and Justificaiton](./Assignments/SummaryOfHoursAndJustification.md)
 
 10. [Summary of Expenses](./Assignments/Budget.md)
 
