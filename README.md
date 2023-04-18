@@ -22,7 +22,7 @@
 
 8. Assessment Essays
    - [Intial Self-Assessment (Fall Semester)](./Assignments/IndividualCapstoneAssessment.md)
-   - [Final Self-Assessment (Spring Semester)](./Assignments/Michael%20Stephens%20-%20Final%20Self-Assessment.pdf)
+   - [Final Self-Assessment (Spring Semester)](./Assignments/FinalSelfAssessment.md)
    
 9. [Summary of Hours and Justificaiton](./Assignments/SummaryOfHoursAndJustification.md)
 
