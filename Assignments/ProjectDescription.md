@@ -17,3 +17,4 @@ To create a web based application that will utilize data analytics and visualiza
 
 ## Project Purpose
 The purpose of this project is to allow the end user to monitor the price of various stocks and commodities. The user will be able to utilize the tools provided within the web application to make their own decisions in regards to investing, trading, and economics.
+
